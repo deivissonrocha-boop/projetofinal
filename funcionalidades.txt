@@ -1,1 +1,2 @@
 Armazenar "terefa"
+Gerenciar "tarefa"
